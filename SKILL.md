@@ -2,13 +2,16 @@
 name: ambition
 description: 'Make a task more ambitious along three axes — Altitude (aim at the outcome behind the task), Depth (do it the way a field-leading expert would, from raw material, with an outside judge) and Range (bring in other fields). Use when the user says "ambition", "更有野心", "想大一点", "升维", "做深一点", "跨界", "we are not ambitious enough", or asks to rethink, upgrade or rewrite a prompt/task/plan so the AI does more than the literal request. Also use before starting any open-ended deliverable (report, deck, analysis, product feature, research) when the user asks how to get more out of the model.'
 metadata:
-    source: 'Felix Rieseberg, "How to be more ambitious: A tutorial for humans with models" (2026-10) — https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/'
-    scope: 'Altitude, Depth, Range (the article''s fourth type, Speed, is intentionally excluded)'
+    source: 'Felix Rieseberg, "How to be more ambitious: A tutorial for humans with models" (2026-10-13) — https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/'
+    scope: 'Altitude, Depth, Range; Speed is acknowledged but not expanded, following the article'
+    adaptation: 'Unofficial Chinese workflow adaptation; the six-step workflow and output template are skill-specific'
 ---
 
 # Ambition：高度 · 深度 · 广度
 
-把一个“字面任务”升级成更有野心的版本。原文把野心分成四类：Speed、Altitude、Depth、Range。**Speed（同样的事做得更快）不需要方法论，本 skill 只处理后三类。**
+把一个“字面任务”升级成更有野心的版本。方法论来源于 [Felix Rieseberg 的原文](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/)（2026-10-13）。原文把野心分成四类：Speed、Altitude、Depth、Range；作者认为 Speed 已较成熟，因此重点展开后三类。本 skill 沿用这一范围，不把“未展开”解释为速度不重要或无需方法。
+
+这是非官方的中文工作流改编。下面的六步流程、级别数量及输出模板是本 skill 的结构化整理；文中的中文案例与提示词包含对原文的转述和改写，不作为作者原话引用。来源与改编边界见 [README.md](README.md)。
 
 | 维度 | 一句话 | 核心问题 |
 |---|---|---|
