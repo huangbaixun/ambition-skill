@@ -1,5 +1,7 @@
 # Ambition Skill：高度 · 深度 · 广度
 
+[English](README-en.md) | 简体中文
+
 将模糊的“做得更好”转成有目标、有方法、有验证依据的任务。适用于方案审视、研究、产品规划及交付物改进。
 
 ## 来源
@@ -54,6 +56,7 @@
 
 - [`SKILL.md`](SKILL.md)：供 AI 助手加载的指令、流程和提示词。
 - `README.md`：来源、方法论范围、改编说明与使用入口。
+- [`README-en.md`](README-en.md)：英文版说明。
 - 本仓库不包含具体项目代码、运行数据或项目评审结果。
 
 将本目录放入 Codex 的 `~/.codex/skills/ambition/`，或 GitHub Copilot 的 `~/.copilot/skills/ambition/`，保留根目录中的 `SKILL.md`。在对话中明确提出“使用 ambition …”即可请求应用此方法。
